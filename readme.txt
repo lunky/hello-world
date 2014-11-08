@@ -4,3 +4,5 @@ acomplish the goal..
 
 
 The tests are smart. The checklist is brilliant.
+
+Do I have to git add everytime?
